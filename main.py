@@ -10,4 +10,4 @@ while True:
         else:
         outputpin.write_degital(1)            #  if led is not on, turn it on
         time.sleep(.5)
-        microbit.sleep(125)
+        microbit.sleep(1255)
